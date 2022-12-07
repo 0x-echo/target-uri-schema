@@ -13,6 +13,9 @@ dweb/ipfs/{{CID}}
 
 dweb/ipns/{{path}} 
 
+### ar
+
+dweb/ar/{{tx id}}
 
 ## NFT
 
