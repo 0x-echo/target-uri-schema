@@ -5,11 +5,11 @@ http url, for all web2 content.
 
 ## dweb
 
-### ipfs/ipfs
+### ipfs
 
 dweb/ipfs/{{CID}}
 
-### ipfs/ipns
+### ipns
 
 dweb/ipns/{{path}} 
 
